@@ -12,14 +12,13 @@ O sistema visa modernizar a gestão da Biblioteca Central da Universidade Nova E
     * Alunos poderão emprestar até cinco livros simultaneamente.
     * Prazo padrão de devolução de 14 dias.
     * Possibilidade de prorrogação por mais 7 dias (se o livro não estiver reservado).
-* **Reservas:** Permite reservar títulos indisponíveis, com notificação automática por e-mail quando o exemplar estiver disponível.
+* **Reservas:** Permite reservar títulos indisponíveis.
 * **Gestão de Acervo (Bibliotecários):**
     * Cadastro de novos livros.
     * Atualização de informações de livros.
 * **Relatórios e Estatísticas (Bibliotecários):**
     * Geração de relatórios de uso do acervo.
     * Geração de relatórios de atrasos.
-    * Sinalização automática de livros com mais de 30 dias de atraso para aplicação de sanções.
 * **Controle de Acesso por Perfil:** Diferenciação de funcionalidades entre usuários (alunos/professores) e bibliotecários.
 * **Responsividade:** O sistema será compatível com desktops e tablets, facilitando o uso no balcão da biblioteca e por parte dos usuários.
 
